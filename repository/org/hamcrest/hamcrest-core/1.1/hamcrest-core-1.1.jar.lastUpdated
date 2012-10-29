@@ -1,0 +1,22 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Jun 22 15:49:34 CDT 2012
+http\://repo1.maven.org/maven2/.lastUpdated=1340398174557
+http\://repo1.maven.org/maven2/me/prettyprint/.error=
+http\://repo1.maven.org/maven2/me/prettyprint/.lastUpdated=1340398170755
+http\://clojars.org/repo/.error=
+http\://oss.sonatype.org/content/repositories/github-releases/.lastUpdated=1340398171545
+http\://javageomodel.googlecode.com/svn/repository/.lastUpdated=1340398173964
+http\://twitter4j.org/maven2/.error=
+http\://mirrors.ibiblio.org/pub/mirrors/maven2/.lastUpdated=1339248534194
+http\://twitter4j.org/maven2/.lastUpdated=1340398172662
+http\://mvn.riptano.com/content/repositories/public/.error=
+default-http\://maven.roundeux.com\:8081/nexus/content/repositories/thirdparty/.lastUpdated=1340398172685
+http\://google-gson.googlecode.com/svn/mavenrepo/.error=
+http\://mvn.riptano.com/content/repositories/public/.lastUpdated=1340398173026
+http\://clojars.org/repo/.lastUpdated=1340398171801
+http\://nexus.openqa.org/content/repositories/releases/.error=
+http\://nexus.openqa.org/content/repositories/releases/.lastUpdated=1340398174327
+http\://google-gson.googlecode.com/svn/mavenrepo/.lastUpdated=1339248527581
+http\://javageomodel.googlecode.com/svn/repository/.error=
+http\://oss.sonatype.org/content/repositories/github-releases/.error=
+http\://maven.roundeux.com\:8081/nexus/content/repositories/thirdparty/.error=Could not transfer artifact org.hamcrest\:hamcrest-core\:jar\:1.1 from/to Roundeux Sonatype Nexus Repo - 3rd party (http\://maven.roundeux.com\:8081/nexus/content/repositories/thirdparty/)\: java.net.ConnectException\: null to http\://maven.roundeux.com\:8081/nexus/content/repositories/thirdparty/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar

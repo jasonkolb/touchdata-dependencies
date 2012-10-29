@@ -1,0 +1,27 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat Jun 09 17:11:00 CDT 2012
+http\://repo1.maven.org/maven2/.lastUpdated=1339279860518
+http\://repo1.maven.org/eclipse/.lastUpdated=1339279858458
+http\://repo1.maven.org/maven2/me/prettyprint/.error=
+http\://repo1.maven.org/maven2/me/prettyprint/.lastUpdated=1339279858714
+http\://clojars.org/repo/.error=
+http\://oss.sonatype.org/content/repositories/github-releases/.lastUpdated=1339279858798
+http\://www.terracotta.org/download/reflector/releases/.error=
+http\://javageomodel.googlecode.com/svn/repository/.lastUpdated=1339279859844
+http\://twitter4j.org/maven2/.error=
+http\://repo1.maven.org/eclipse/.error=
+http\://mirrors.ibiblio.org/pub/mirrors/maven2/.lastUpdated=1339279859712
+http\://twitter4j.org/maven2/.lastUpdated=1339279859307
+http\://mvn.riptano.com/content/repositories/public/.error=
+http\://google-gson.googlecode.com/svn/mavenrepo/.error=
+http\://mvn.riptano.com/content/repositories/public/.lastUpdated=1339279859767
+http\://clojars.org/repo/.lastUpdated=1339279858900
+http\://nexus.openqa.org/content/repositories/releases/.error=
+http\://mirrors.ibiblio.org/pub/mirrors/maven2/.error=
+http\://nexus.openqa.org/content/repositories/releases/.lastUpdated=1339279859896
+http\://google-gson.googlecode.com/svn/mavenrepo/.lastUpdated=1339279859410
+http\://javageomodel.googlecode.com/svn/repository/.error=
+http\://oss.sonatype.org/content/repositories/github-releases/.error=
+http\://maven.roundeux.com\:8081/nexus/content/repositories/thirdparty/.lastUpdated=1339279859339
+http\://maven.roundeux.com\:8081/nexus/content/repositories/thirdparty/.error=
+http\://www.terracotta.org/download/reflector/releases/.lastUpdated=1339279860208

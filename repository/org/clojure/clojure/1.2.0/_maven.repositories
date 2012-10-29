@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat Jun 09 17:21:17 CDT 2012
+clojure-1.2.0.jar>central=
+clojure-1.2.0-sources.jar>com.springsource.repository.bundles.release=
+clojure-1.2.0.pom>central=
+clojure-1.2.0-javadoc.jar>com.springsource.repository.bundles.release=

@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Jul 03 09:23:28 CDT 2012
+default-http\://172.16.2.50\:8081/nexus/content/repositories/releases/.lastUpdated=1341325407972
+http\://172.16.2.50\:8081/nexus/content/repositories/releases/.error=Could not transfer artifact org.apache.directmemory\:directmemory-cache\:pom\:0.6.0-20120614.074017-100 from/to Roundeux Sonatype Nexus Repo - 3rd party (http\://172.16.2.50\:8081/nexus/content/repositories/releases/)\: java.net.ConnectException\: Connection refused to http\://172.16.2.50\:8081/nexus/content/repositories/releases/org/apache/directmemory/directmemory-cache/0.6.0-SNAPSHOT/directmemory-cache-0.6.0-20120614.074017-100.pom
+https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1341325408346

@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat Jun 09 17:20:00 CDT 2012
+httpclient-4.0.1-sources.jar>com.springsource.repository.bundles.release=
+httpclient-4.0.1.jar>central=
+httpclient-4.0.1.pom>central=

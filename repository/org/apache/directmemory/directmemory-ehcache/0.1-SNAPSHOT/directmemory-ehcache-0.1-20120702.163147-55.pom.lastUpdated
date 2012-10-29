@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Jul 03 08:56:59 CDT 2012
+default-http\://172.16.2.50\:8081/nexus/content/repositories/releases/.lastUpdated=1341323818792
+http\://172.16.2.50\:8081/nexus/content/repositories/releases/.error=Could not transfer artifact org.apache.directmemory\:directmemory-ehcache\:pom\:0.1-20120702.163147-55 from/to Roundeux Sonatype Nexus Repo - 3rd party (http\://172.16.2.50\:8081/nexus/content/repositories/releases/)\: Connection refused to http\://172.16.2.50\:8081/nexus/content/repositories/releases/org/apache/directmemory/directmemory-ehcache/0.1-SNAPSHOT/directmemory-ehcache-0.1-20120702.163147-55.pom
+https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1341323819396

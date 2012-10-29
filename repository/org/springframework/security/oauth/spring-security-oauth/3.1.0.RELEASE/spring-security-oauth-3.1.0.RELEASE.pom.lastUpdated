@@ -1,0 +1,24 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Jul 02 10:13:40 CDT 2012
+http\://repo1.maven.org/maven2/.lastUpdated=1341242020267
+http\://repo1.maven.org/eclipse/.lastUpdated=1341242020434
+http\://repo1.maven.org/maven2/me/prettyprint/.error=
+http\://repo1.maven.org/maven2/me/prettyprint/.lastUpdated=1341242016681
+http\://clojars.org/repo/.error=
+http\://oss.sonatype.org/content/repositories/github-releases/.lastUpdated=1341242016975
+http\://javageomodel.googlecode.com/svn/repository/.lastUpdated=1341242019801
+http\://twitter4j.org/maven2/.error=
+http\://repo1.maven.org/eclipse/.error=
+http\://twitter4j.org/maven2/.lastUpdated=1341242018284
+http\://mvn.riptano.com/content/repositories/public/.error=
+http\://oss.sonatype.org/content/groups/public/.error=
+http\://oss.sonatype.org/content/groups/public/.lastUpdated=1341242020586
+http\://mvn.riptano.com/content/repositories/public/.lastUpdated=1341242018537
+http\://clojars.org/repo/.lastUpdated=1341242017339
+http\://172.16.2.50\:8081/nexus/content/repositories/releases/.error=Could not transfer artifact org.springframework.security.oauth\:spring-security-oauth\:pom\:3.1.0.RELEASE from/to Roundeux Sonatype Nexus Repo - 3rd party (http\://172.16.2.50\:8081/nexus/content/repositories/releases/)\: Connect times out
+http\://nexus.openqa.org/content/repositories/releases/.error=
+default-http\://172.16.2.50\:8081/nexus/content/repositories/releases/.lastUpdated=1341242016223
+http\://nexus.openqa.org/content/repositories/releases/.lastUpdated=1341242020108
+http\://javageomodel.googlecode.com/svn/repository/.error=
+http\://oss.sonatype.org/content/repositories/github-releases/.error=
+http\://repo1.maven.org/maven2/.error=

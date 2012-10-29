@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.eclipse.update</groupId>
+  <artifactId>core</artifactId>
+  <name>Install/Update Core</name>
+  <version>3.2.100-v20070615</version>
+  <licenses>
+    <license>
+      <name>Eclipse Public License - v 1.0</name>
+      <url>http://www.eclipse.org/org/documents/epl-v10.html</url>
+    </license>
+  </licenses>
+  <dependencies>
+    <dependency>
+      <groupId>org.eclipse.core</groupId>
+      <artifactId>runtime</artifactId>
+      <version>3.3.100-v20070530</version>
+    </dependency>
+    <dependency>
+      <groupId>org.eclipse.update</groupId>
+      <artifactId>configurator</artifactId>
+      <version>3.2.100-v20070615</version>
+    </dependency>
+    <dependency>
+      <groupId>org.eclipse.core</groupId>
+      <artifactId>net</artifactId>
+      <version>1.0.0-I20070531</version>
+    </dependency>
+  </dependencies>
+</project>

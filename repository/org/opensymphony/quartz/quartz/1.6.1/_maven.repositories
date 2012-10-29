@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat Jun 09 17:16:45 CDT 2012
+quartz-1.6.1.jar>com.springsource.repository.bundles.release=
+quartz-1.6.1-javadoc.jar>com.springsource.repository.bundles.release=
+quartz-1.6.1.pom>com.springsource.repository.bundles.release=

@@ -1,0 +1,19 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Jul 03 09:48:17 CDT 2012
+http\://oss.sonatype.org/content/repositories/github-releases/.lastUpdated=1341326894860
+http\://javageomodel.googlecode.com/svn/repository/.lastUpdated=1341326896669
+http\://twitter4j.org/maven2/.error=
+default-http\://172.16.2.50\:8081/nexus/content/repositories/releases/.lastUpdated=1341326889441
+http\://repo1.maven.org/maven2/me/prettyprint/.lastUpdated=1341326889487
+http\://clojars.org/repo/.lastUpdated=1341326895324
+http\://repo1.maven.org/maven2/me/prettyprint/.error=
+http\://javageomodel.googlecode.com/svn/repository/.error=
+http\://mvn.riptano.com/content/repositories/public/.lastUpdated=1341326896263
+http\://mvn.riptano.com/content/repositories/public/.error=
+http\://172.16.2.50\:8081/nexus/content/repositories/releases/.error=Could not transfer artifact org.aspectj\:aspectjrt\:jar\:1.6.12 from/to Roundeux Sonatype Nexus Repo - 3rd party (http\://172.16.2.50\:8081/nexus/content/repositories/releases/)\: Connection refused to http\://172.16.2.50\:8081/nexus/content/repositories/releases/org/aspectj/aspectjrt/1.6.12/aspectjrt-1.6.12.jar
+http\://oss.sonatype.org/content/repositories/github-releases/.error=
+http\://twitter4j.org/maven2/.lastUpdated=1341326896219
+http\://clojars.org/repo/.error=
+http\://repo1.maven.org/maven2/.lastUpdated=1341326897132
+http\://nexus.openqa.org/content/repositories/releases/.lastUpdated=1341326896704
+http\://nexus.openqa.org/content/repositories/releases/.error=

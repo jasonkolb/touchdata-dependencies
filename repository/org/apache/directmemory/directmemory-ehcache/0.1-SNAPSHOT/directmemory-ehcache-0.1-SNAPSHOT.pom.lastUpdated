@@ -1,0 +1,22 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Jul 03 08:54:36 CDT 2012
+http\://repo1.maven.org/maven2/.lastUpdated=1341323676232
+http\://repo1.maven.org/eclipse/.lastUpdated=1341323676261
+http\://repo1.maven.org/maven2/me/prettyprint/.error=
+http\://repo1.maven.org/maven2/me/prettyprint/.lastUpdated=1341323675466
+http\://clojars.org/repo/.error=
+http\://oss.sonatype.org/content/repositories/github-releases/.lastUpdated=1341323675567
+http\://javageomodel.googlecode.com/svn/repository/.lastUpdated=1341323676184
+http\://twitter4j.org/maven2/.error=
+http\://repo1.maven.org/eclipse/.error=
+http\://twitter4j.org/maven2/.lastUpdated=1341323676077
+http\://mvn.riptano.com/content/repositories/public/.error=
+http\://oss.sonatype.org/content/groups/public/.error=
+http\://oss.sonatype.org/content/groups/public/.lastUpdated=1341323676297
+http\://mvn.riptano.com/content/repositories/public/.lastUpdated=1341323676096
+http\://clojars.org/repo/.lastUpdated=1341323675683
+http\://172.16.2.50\:8081/nexus/content/repositories/releases/.error=Could not transfer artifact org.apache.directmemory\:directmemory-ehcache\:pom\:0.1-SNAPSHOT from/to Roundeux Sonatype Nexus Repo - 3rd party (http\://172.16.2.50\:8081/nexus/content/repositories/releases/)\: Connection refused to http\://172.16.2.50\:8081/nexus/content/repositories/releases/org/apache/directmemory/directmemory-ehcache/0.1-SNAPSHOT/directmemory-ehcache-0.1-SNAPSHOT.pom
+default-http\://172.16.2.50\:8081/nexus/content/repositories/releases/.lastUpdated=1341323675443
+http\://javageomodel.googlecode.com/svn/repository/.error=
+http\://oss.sonatype.org/content/repositories/github-releases/.error=
+http\://repo1.maven.org/maven2/.error=

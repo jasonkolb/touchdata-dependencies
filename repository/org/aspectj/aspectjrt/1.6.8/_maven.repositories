@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat Jun 09 17:31:28 CDT 2012
+aspectjrt-1.6.8.pom>com.springsource.repository.bundles.release=
+aspectjrt-1.6.8-sources.jar>com.springsource.repository.bundles.release=
+aspectjrt-1.6.8.jar>central=

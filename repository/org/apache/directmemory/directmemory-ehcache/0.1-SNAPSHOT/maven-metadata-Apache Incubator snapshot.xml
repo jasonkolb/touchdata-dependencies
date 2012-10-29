@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.apache.directmemory</groupId>
+  <artifactId>directmemory-ehcache</artifactId>
+  <version>0.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20120702.163147</timestamp>
+      <buildNumber>55</buildNumber>
+    </snapshot>
+    <lastUpdated>20120702163147</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.1-20120702.163147-55</value>
+        <updated>20120702163147</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.1-20120702.163147-55</value>
+        <updated>20120702163147</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

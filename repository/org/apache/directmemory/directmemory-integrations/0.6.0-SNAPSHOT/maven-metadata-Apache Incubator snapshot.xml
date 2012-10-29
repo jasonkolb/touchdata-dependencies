@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.apache.directmemory</groupId>
+  <artifactId>directmemory-integrations</artifactId>
+  <version>0.6.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20120614.074028</timestamp>
+      <buildNumber>70</buildNumber>
+    </snapshot>
+    <lastUpdated>20120614074028</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.6.0-20120614.074028-70</value>
+        <updated>20120614074028</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

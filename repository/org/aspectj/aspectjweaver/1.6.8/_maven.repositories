@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat Jun 09 17:31:58 CDT 2012
+aspectjweaver-1.6.8.pom>com.springsource.repository.bundles.release=
+aspectjweaver-1.6.8.jar>central=
+aspectjweaver-1.6.8-sources.jar>com.springsource.repository.bundles.release=

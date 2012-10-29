@@ -1,0 +1,27 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat Jun 09 17:15:53 CDT 2012
+http\://repo1.maven.org/maven2/.lastUpdated=1339280153749
+http\://repo1.maven.org/eclipse/.lastUpdated=1339280064656
+http\://repo1.maven.org/maven2/me/prettyprint/.error=
+http\://repo1.maven.org/maven2/me/prettyprint/.lastUpdated=1339280078909
+http\://clojars.org/repo/.error=
+http\://oss.sonatype.org/content/repositories/github-releases/.lastUpdated=1339280080069
+http\://www.terracotta.org/download/reflector/releases/.error=
+http\://javageomodel.googlecode.com/svn/repository/.lastUpdated=1339280125582
+http\://twitter4j.org/maven2/.error=
+http\://repo1.maven.org/eclipse/.error=
+http\://twitter4j.org/maven2/.lastUpdated=1339280088694
+http\://mvn.riptano.com/content/repositories/public/.error=
+default-http\://mirrors.ibiblio.org/pub/mirrors/maven2/.lastUpdated=1339280123762
+http\://google-gson.googlecode.com/svn/mavenrepo/.error=
+http\://mvn.riptano.com/content/repositories/public/.lastUpdated=1339280125141
+http\://clojars.org/repo/.lastUpdated=1339280086373
+http\://nexus.openqa.org/content/repositories/releases/.error=
+http\://mirrors.ibiblio.org/pub/mirrors/maven2/.error=Could not transfer artifact org.springframework.security\:spring-security-core\:jar\:3.0.5.RELEASE from/to com.springsource.repository.bundles.release (http\://mirrors.ibiblio.org/pub/mirrors/maven2/)\: Access denied to http\://mirrors.ibiblio.org/pub/mirrors/maven2/org/springframework/security/spring-security-core/3.0.5.RELEASE/spring-security-core-3.0.5.RELEASE.jar. Error code 403, Forbidden
+http\://nexus.openqa.org/content/repositories/releases/.lastUpdated=1339280126297
+http\://google-gson.googlecode.com/svn/mavenrepo/.lastUpdated=1339280089509
+http\://javageomodel.googlecode.com/svn/repository/.error=
+http\://oss.sonatype.org/content/repositories/github-releases/.error=
+http\://maven.roundeux.com\:8081/nexus/content/repositories/thirdparty/.lastUpdated=1339280088860
+http\://maven.roundeux.com\:8081/nexus/content/repositories/thirdparty/.error=
+http\://www.terracotta.org/download/reflector/releases/.lastUpdated=1339280130845

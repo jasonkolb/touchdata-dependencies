@@ -1,0 +1,24 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Jul 03 08:56:51 CDT 2012
+http\://repo1.maven.org/maven2/.lastUpdated=1341323666513
+http\://repo1.maven.org/eclipse/.lastUpdated=1341323666546
+http\://repo1.maven.org/maven2/me/prettyprint/.error=
+https\://repository.apache.org/content/repositories/snapshots/.error=
+http\://repo1.maven.org/maven2/me/prettyprint/.lastUpdated=1341323665648
+http\://clojars.org/repo/.error=
+http\://oss.sonatype.org/content/repositories/github-releases/.lastUpdated=1341323665787
+http\://javageomodel.googlecode.com/svn/repository/.lastUpdated=1341323666473
+http\://twitter4j.org/maven2/.error=
+http\://repo1.maven.org/eclipse/.error=
+http\://twitter4j.org/maven2/.lastUpdated=1341323666364
+http\://mvn.riptano.com/content/repositories/public/.error=
+http\://oss.sonatype.org/content/groups/public/.error=
+https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1341323811915
+http\://mvn.riptano.com/content/repositories/public/.lastUpdated=1341323666419
+http\://clojars.org/repo/.lastUpdated=1341323665859
+http\://oss.sonatype.org/content/groups/public/.lastUpdated=1341323666629
+http\://172.16.2.50\:8081/nexus/content/repositories/releases/.error=Could not transfer artifact org.apache.directmemory.server\:directmemory-cache\:pom\:0.1-SNAPSHOT from/to Roundeux Sonatype Nexus Repo - 3rd party (http\://172.16.2.50\:8081/nexus/content/repositories/releases/)\: Connection refused to http\://172.16.2.50\:8081/nexus/content/repositories/releases/org/apache/directmemory/server/directmemory-cache/0.1-SNAPSHOT/directmemory-cache-0.1-SNAPSHOT.pom
+default-http\://172.16.2.50\:8081/nexus/content/repositories/releases/.lastUpdated=1341323665612
+http\://javageomodel.googlecode.com/svn/repository/.error=
+http\://oss.sonatype.org/content/repositories/github-releases/.error=
+http\://repo1.maven.org/maven2/.error=

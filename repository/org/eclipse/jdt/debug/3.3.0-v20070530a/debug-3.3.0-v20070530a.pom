@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.eclipse.jdt</groupId>
+  <artifactId>debug</artifactId>
+  <name>JDI Debug Model</name>
+  <version>3.3.0-v20070530a</version>
+  <licenses>
+    <license>
+      <name>Eclipse Public License - v 1.0</name>
+      <url>http://www.eclipse.org/org/documents/epl-v10.html</url>
+    </license>
+  </licenses>
+  <dependencies>
+    <dependency>
+      <groupId>org.eclipse.core</groupId>
+      <artifactId>resources</artifactId>
+      <version>3.3.0-v20070530</version>
+    </dependency>
+    <dependency>
+      <groupId>org.eclipse.debug</groupId>
+      <artifactId>core</artifactId>
+      <version>3.3.0-v20070531-1800</version>
+    </dependency>
+    <dependency>
+      <groupId>org.eclipse.jdt</groupId>
+      <artifactId>core</artifactId>
+      <version>3.3.0-v_768</version>
+    </dependency>
+    <dependency>
+      <groupId>org.eclipse.core</groupId>
+      <artifactId>runtime</artifactId>
+      <version>3.3.100-v20070530</version>
+    </dependency>
+    <dependency>
+      <groupId>org.eclipse.core</groupId>
+      <artifactId>expressions</artifactId>
+      <version>3.3.0-v20070531-1300</version>
+    </dependency>
+  </dependencies>
+  <properties>
+    <eclipse.unpack>true</eclipse.unpack>
+  </properties>
+</project>
