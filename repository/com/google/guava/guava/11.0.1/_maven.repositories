@@ -1,0 +1,8 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Oct 01 22:27:28 CDT 2012
+guava-11.0.1.jar>com.springsource.repository.bundles.release=
+guava-11.0.1.jar>central=
+guava-11.0.1-sources.jar>com.springsource.repository.bundles.release=
+guava-11.0.1-javadoc.jar>com.springsource.repository.bundles.release=
+guava-11.0.1.pom>central=
+guava-11.0.1.pom>com.springsource.repository.bundles.release=

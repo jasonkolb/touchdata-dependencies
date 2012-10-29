@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat Jun 09 17:19:34 CDT 2012
+jamm-0.2.2.pom>com.springsource.repository.bundles.release=
+jamm-0.2.2-javadoc.jar>com.springsource.repository.bundles.release=
+jamm-0.2.2-sources.jar>com.springsource.repository.bundles.release=
+jamm-0.2.2.jar>com.springsource.repository.bundles.release=
