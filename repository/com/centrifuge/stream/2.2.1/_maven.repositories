@@ -1,8 +1,0 @@
-#NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Fri Jun 29 13:11:07 CDT 2012
-stream-2.2.1.pom>=
-stream-2.2.1-exec.jar>=
-stream-2.2.1-javadoc.jar>=
-stream-2.2.1-sources.jar>=
-stream-2.2.1.jar>=
-stream-2.2.1-tests.jar>=
